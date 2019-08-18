@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: External CSS JS 
+Plugin Name: External CSS JS For Wordpress
 Version: 1.0
 Description: Manage External CSS, JS Files
 Author: Karim Shaikh
